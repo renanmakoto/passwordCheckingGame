@@ -1,3 +1,3 @@
-<h1>passwordCheckingGame</h1>
+<h1 align="center">passwordCheckingGame</h1>
 
-<p>A simple password checking game I developed in a moment of boredom.</p>
+<p align="center">A simple password checking game I developed in a moment of boredom.</p>
